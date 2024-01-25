@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4C04CA0B-3ABF-46B6-BA35-A22616FFDB54"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E758C717-CF8C-4814-8B83-856E5FC9DB3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "queryMediaItems()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFDFFFB8-051C-43CA-8B1B-CB216B837892"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/viewControllers/FavoriteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFDFFFB8-051C-43CA-8B1B-CB216B837892 - f089f590975944fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.FavoriteViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/FavoriteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "AFDFFFB8-051C-43CA-8B1B-CB216B837892 - f089f590975944fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.FavoriteViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/FavoriteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "AFDFFFB8-051C-43CA-8B1B-CB216B837892 - f089f590975944da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.FavoriteViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/FavoriteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62B72531-BF12-43F9-B14B-BB221BA3E2CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/UtilityClasses/CoreDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "fetchFavSongs()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "217F39BC-B106-4C0C-A686-1C11EB09FDDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/viewControllers/FavoriteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "217F39BC-B106-4C0C-A686-1C11EB09FDDB - 995795402fffc8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.FavoriteViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/FavoriteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "217F39BC-B106-4C0C-A686-1C11EB09FDDB - 995795402fffc8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.FavoriteViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/FavoriteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BDAC954-4371-4074-9F14-6C02253E4BB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/viewControllers/IntroductionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "IntroductionViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E6F2391-6EB7-47D7-9946-CEC9EC26F22A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/viewControllers/IntroductionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 4227b4f44c279ee1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.delegate.getter : Swift.Optional&lt;Harmoniyo.IntroductionViewControllerDelegate&gt;"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - e7a5453fe4656f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.delegate.setter : Swift.Optional&lt;Harmoniyo.IntroductionViewControllerDelegate&gt;"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 6292ef156312f8e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.delegate.modify : Swift.Optional&lt;Harmoniyo.IntroductionViewControllerDelegate&gt;"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 30bd159e513ef491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.delegate.modify : Swift.Optional&lt;Harmoniyo.IntroductionViewControllerDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 9a284415629a5ae0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Harmoniyo.IntroductionViewController"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 68f947282a897558"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Harmoniyo.IntroductionViewController&gt;"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 5b83cd228944d122"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 5b83cd228944d122"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "A8D8AA3E-D910-4DAB-A997-82774704D808 - 5b83cd228944d122"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9827FDE1-2A04-40F6-AC77-D71647C25E73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/viewControllers/IntroductionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "isFirstLaunch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9827FDE1-2A04-40F6-AC77-D71647C25E73 - 433be61967dc66bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.setFirstLaunchFlag() -&gt; ()"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "9827FDE1-2A04-40F6-AC77-D71647C25E73 - cb8e6ac3f1889885"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmoniyo.IntroductionViewController.isFirstLaunch() -&gt; Swift.Bool"
+                  moduleName = "Harmoniyo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shahinakassim/Documents/ios%20development/Harmoniyo/Harmoniyo/viewControllers/IntroductionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50B9D780-9369-49A8-A6D0-7DC9004FF6B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/viewControllers/IntroductionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "setFirstLaunchFlag()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "908E14F2-100D-4D4D-9CDB-7C5B18F61A39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/viewControllers/IntroductionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A11EFF07-2D28-40BF-968B-2F8408BCCC92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Harmoniyo/Views/SongTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "setSelected(_:animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
